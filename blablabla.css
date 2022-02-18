@@ -6,3 +6,10 @@ body {
     background-color: red!important;
     border-bottom: 0 solid #212934!important;
 }
+
+
+#tabs .nav-tabs {
+    background-color: red!important;
+    padding-left: 1px!important;
+    border-top: 1px solid #0f1925!important;
+}
