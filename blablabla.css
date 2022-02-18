@@ -2,7 +2,7 @@ body {
   background-color: lightblue;
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
+#header {
+    background-color: red!important;
+    border-bottom: 0 solid #212934!important;
 }
